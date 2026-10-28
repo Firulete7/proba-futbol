@@ -1,0 +1,29 @@
+name: Actualizar predicciones
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Correr el bot
+        run: python bot.py
+        env:
+          FD_TOKEN: ${{ secrets.FD_TOKEN }}
+      - name: Guardar resultados
+        run: |
+          git config user.name "bot-proba"
+          git config user.email "bot-proba@users.noreply.github.com"
+          git add predicciones.json
+          git diff --cached --quiet || (git commit -m "Actualizar predicciones" && git push)
