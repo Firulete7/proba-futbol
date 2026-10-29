@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T17:42:45+00:00",
+  "actualizado": "2026-10-29T22:08:36+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -95,7 +95,7 @@
               },
               {
                 "resultado": "1-0",
-                "prob": 10.7
+                "prob": 10.8
               },
               {
                 "resultado": "0-1",
@@ -198,7 +198,7 @@
               },
               {
                 "resultado": "2-0",
-                "prob": 10.8
+                "prob": 10.7
               }
             ]
           }
@@ -458,7 +458,7 @@
               },
               {
                 "resultado": "1-0",
-                "prob": 10.3
+                "prob": 10.4
               },
               {
                 "resultado": "2-1",
@@ -794,7 +794,7 @@
               },
               {
                 "resultado": "1-0",
-                "prob": 10.5
+                "prob": 10.4
               },
               {
                 "resultado": "2-1",
@@ -880,11 +880,11 @@
             "local": 19,
             "empate": 18,
             "visitante": 63,
-            "mas_2_5": 75,
+            "mas_2_5": 74,
             "ambos_marcan": 68,
             "goles_esperados": {
-              "local": 1.35,
-              "visitante": 2.54
+              "local": 1.36,
+              "visitante": 2.53
             },
             "marcadores": [
               {
@@ -943,8 +943,8 @@
           "escudo_local": "https://crests.football-data.org/77.png",
           "escudo_visitante": "https://crests.football-data.org/92.png",
           "prob": {
-            "local": 49,
-            "empate": 24,
+            "local": 50,
+            "empate": 23,
             "visitante": 27,
             "mas_2_5": 59,
             "ambos_marcan": 60,
@@ -1153,7 +1153,7 @@
             "marcadores": [
               {
                 "resultado": "0-1",
-                "prob": 10.7
+                "prob": 10.6
               },
               {
                 "resultado": "1-1",
@@ -1161,7 +1161,7 @@
               },
               {
                 "resultado": "0-2",
-                "prob": 10.3
+                "prob": 10.2
               }
             ]
           }
@@ -1194,7 +1194,7 @@
               },
               {
                 "resultado": "1-0",
-                "prob": 7.9
+                "prob": 8.0
               }
             ]
           }
@@ -1247,7 +1247,7 @@
             "ambos_marcan": 49,
             "goles_esperados": {
               "local": 1.59,
-              "visitante": 0.95
+              "visitante": 0.94
             },
             "marcadores": [
               {
