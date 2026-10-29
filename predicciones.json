@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T03:13:57+00:00",
+  "actualizado": "2026-10-29T11:54:06+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -16,7 +16,7 @@
             "local": 54,
             "empate": 21,
             "visitante": 25,
-            "mas_2_5": 66,
+            "mas_2_5": 67,
             "ambos_marcan": 65,
             "goles_esperados": {
               "local": 2.08,
@@ -83,9 +83,9 @@
             "empate": 27,
             "visitante": 36,
             "mas_2_5": 44,
-            "ambos_marcan": 50,
+            "ambos_marcan": 49,
             "goles_esperados": {
-              "local": 1.23,
+              "local": 1.22,
               "visitante": 1.21
             },
             "marcadores": [
@@ -647,7 +647,7 @@
             "ambos_marcan": 55,
             "goles_esperados": {
               "local": 1.42,
-              "visitante": 1.29
+              "visitante": 1.28
             },
             "marcadores": [
               {
