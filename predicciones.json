@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T03:03:40+00:00",
+  "actualizado": "2026-11-02T14:00:39+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -49,7 +49,7 @@
             "local": 48,
             "empate": 26,
             "visitante": 26,
-            "mas_2_5": 45,
+            "mas_2_5": 46,
             "ambos_marcan": 49,
             "goles_esperados": {
               "local": 1.48,
@@ -231,7 +231,7 @@
               },
               {
                 "resultado": "1-2",
-                "prob": 9.4
+                "prob": 9.3
               }
             ]
           }
@@ -264,7 +264,7 @@
               },
               {
                 "resultado": "0-1",
-                "prob": 8.3
+                "prob": 8.4
               }
             ]
           }
@@ -316,8 +316,8 @@
             "mas_2_5": 57,
             "ambos_marcan": 55,
             "goles_esperados": {
-              "local": 1.96,
-              "visitante": 1.03
+              "local": 1.95,
+              "visitante": 1.04
             },
             "marcadores": [
               {
@@ -346,7 +346,7 @@
             "local": 38,
             "empate": 27,
             "visitante": 35,
-            "mas_2_5": 48,
+            "mas_2_5": 47,
             "ambos_marcan": 52,
             "goles_esperados": {
               "local": 1.32,
@@ -484,7 +484,7 @@
             "local": 43,
             "empate": 27,
             "visitante": 30,
-            "mas_2_5": 43,
+            "mas_2_5": 44,
             "ambos_marcan": 49,
             "goles_esperados": {
               "local": 1.35,
@@ -521,7 +521,7 @@
             "ambos_marcan": 52,
             "goles_esperados": {
               "local": 1.11,
-              "visitante": 1.54
+              "visitante": 1.53
             },
             "marcadores": [
               {
@@ -619,7 +619,7 @@
             "mas_2_5": 72,
             "ambos_marcan": 69,
             "goles_esperados": {
-              "local": 2.3,
+              "local": 2.29,
               "visitante": 1.46
             },
             "marcadores": [
