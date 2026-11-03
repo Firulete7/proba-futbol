@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T13:09:18+00:00",
+  "actualizado": "2026-11-03T22:39:03+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -66,7 +66,7 @@
               },
               {
                 "resultado": "0-0",
-                "prob": 13.2
+                "prob": 13.1
               }
             ]
           }
@@ -118,7 +118,7 @@
             "mas_2_5": 45,
             "ambos_marcan": 50,
             "goles_esperados": {
-              "local": 1.43,
+              "local": 1.44,
               "visitante": 1.05
             },
             "marcadores": [
@@ -217,7 +217,7 @@
             "mas_2_5": 60,
             "ambos_marcan": 60,
             "goles_esperados": {
-              "local": 1.22,
+              "local": 1.23,
               "visitante": 1.9
             },
             "marcadores": [
@@ -281,7 +281,7 @@
             "empate": 22,
             "visitante": 20,
             "mas_2_5": 57,
-            "ambos_marcan": 55,
+            "ambos_marcan": 56,
             "goles_esperados": {
               "local": 1.95,
               "visitante": 1.04
@@ -316,7 +316,7 @@
             "mas_2_5": 48,
             "ambos_marcan": 52,
             "goles_esperados": {
-              "local": 1.31,
+              "local": 1.32,
               "visitante": 1.26
             },
             "marcadores": [
@@ -481,13 +481,13 @@
           "escudo_local": "https://crests.football-data.org/95.png",
           "escudo_visitante": "https://crests.football-data.org/86.png",
           "prob": {
-            "local": 18,
-            "empate": 23,
+            "local": 19,
+            "empate": 22,
             "visitante": 59,
             "mas_2_5": 52,
             "ambos_marcan": 50,
             "goles_esperados": {
-              "local": 0.91,
+              "local": 0.92,
               "visitante": 1.83
             },
             "marcadores": [
