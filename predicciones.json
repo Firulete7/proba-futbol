@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T13:39:25+00:00",
+  "actualizado": "2026-11-05T22:58:49+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -25,7 +25,7 @@
             "marcadores": [
               {
                 "resultado": "1-0",
-                "prob": 13.2
+                "prob": 13.1
               },
               {
                 "resultado": "1-1",
@@ -52,7 +52,7 @@
             "mas_2_5": 33,
             "ambos_marcan": 41,
             "goles_esperados": {
-              "local": 1.08,
+              "local": 1.09,
               "visitante": 0.95
             },
             "marcadores": [
@@ -91,7 +91,7 @@
             "marcadores": [
               {
                 "resultado": "1-0",
-                "prob": 15.7
+                "prob": 15.6
               },
               {
                 "resultado": "1-1",
@@ -179,8 +179,8 @@
           "escudo_visitante": "https://crests.football-data.org/64.png",
           "prob": {
             "local": 26,
-            "empate": 25,
-            "visitante": 49,
+            "empate": 26,
+            "visitante": 48,
             "mas_2_5": 49,
             "ambos_marcan": 52,
             "goles_esperados": {
@@ -283,7 +283,7 @@
             "mas_2_5": 57,
             "ambos_marcan": 56,
             "goles_esperados": {
-              "local": 1.94,
+              "local": 1.95,
               "visitante": 1.04
             },
             "marcadores": [
@@ -563,7 +563,7 @@
               },
               {
                 "resultado": "1-1",
-                "prob": 7.8
+                "prob": 7.9
               },
               {
                 "resultado": "3-1",
@@ -620,7 +620,7 @@
             "ambos_marcan": 46,
             "goles_esperados": {
               "local": 1.57,
-              "visitante": 0.85
+              "visitante": 0.86
             },
             "marcadores": [
               {
@@ -653,7 +653,7 @@
             "ambos_marcan": 68,
             "goles_esperados": {
               "local": 1.72,
-              "visitante": 1.79
+              "visitante": 1.78
             },
             "marcadores": [
               {
