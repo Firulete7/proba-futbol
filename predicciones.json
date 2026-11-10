@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T14:33:54+00:00",
+  "actualizado": "2026-11-10T00:56:13+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -9,7 +9,41 @@
     {
       "codigo": "PD",
       "nombre": "LaLiga",
-      "partidos": []
+      "partidos": [
+        {
+          "id": 564748,
+          "fecha_utc": "2026-11-20T20:00:00Z",
+          "local": "Athletic",
+          "visitante": "Espanyol",
+          "escudo_local": "https://crests.football-data.org/77.png",
+          "escudo_visitante": "https://crests.football-data.org/80.png",
+          "prob": {
+            "local": 49,
+            "empate": 28,
+            "visitante": 23,
+            "mas_2_5": 38,
+            "ambos_marcan": 43,
+            "goles_esperados": {
+              "local": 1.36,
+              "visitante": 0.85
+            },
+            "marcadores": [
+              {
+                "resultado": "1-0",
+                "prob": 14.9
+              },
+              {
+                "resultado": "1-1",
+                "prob": 12.7
+              },
+              {
+                "resultado": "0-0",
+                "prob": 11.0
+              }
+            ]
+          }
+        }
+      ]
     }
   ]
 }
