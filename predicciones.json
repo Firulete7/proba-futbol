@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T03:31:36+00:00",
+  "actualizado": "2026-11-11T13:06:09+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -95,7 +95,7 @@
               },
               {
                 "resultado": "1-0",
-                "prob": 10.4
+                "prob": 10.5
               },
               {
                 "resultado": "2-1",
@@ -336,7 +336,7 @@
               },
               {
                 "resultado": "2-1",
-                "prob": 9.6
+                "prob": 9.7
               }
             ]
           }
