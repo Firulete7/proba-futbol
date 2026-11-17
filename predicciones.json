@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T01:14:35+00:00",
+  "actualizado": "2026-11-17T15:02:40+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -181,7 +181,7 @@
             "local": 55,
             "empate": 22,
             "visitante": 23,
-            "mas_2_5": 61,
+            "mas_2_5": 62,
             "ambos_marcan": 60,
             "goles_esperados": {
               "local": 1.97,
@@ -211,8 +211,8 @@
           "escudo_local": "https://crests.football-data.org/67.png",
           "escudo_visitante": "https://crests.football-data.org/57.png",
           "prob": {
-            "local": 26,
-            "empate": 27,
+            "local": 25,
+            "empate": 28,
             "visitante": 47,
             "mas_2_5": 39,
             "ambos_marcan": 44,
@@ -359,7 +359,7 @@
               },
               {
                 "resultado": "0-1",
-                "prob": 9.2
+                "prob": 9.1
               },
               {
                 "resultado": "1-0",
