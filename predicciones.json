@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T14:09:41+00:00",
+  "actualizado": "2026-11-17T01:14:35+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -86,7 +86,7 @@
             "ambos_marcan": 54,
             "goles_esperados": {
               "local": 1.85,
-              "visitante": 1.02
+              "visitante": 1.03
             },
             "marcadores": [
               {
@@ -181,7 +181,7 @@
             "local": 55,
             "empate": 22,
             "visitante": 23,
-            "mas_2_5": 62,
+            "mas_2_5": 61,
             "ambos_marcan": 60,
             "goles_esperados": {
               "local": 1.97,
@@ -211,8 +211,8 @@
           "escudo_local": "https://crests.football-data.org/67.png",
           "escudo_visitante": "https://crests.football-data.org/57.png",
           "prob": {
-            "local": 25,
-            "empate": 28,
+            "local": 26,
+            "empate": 27,
             "visitante": 47,
             "mas_2_5": 39,
             "ambos_marcan": 44,
@@ -334,6 +334,39 @@
               }
             ]
           }
+        },
+        {
+          "id": 560658,
+          "fecha_utc": "2026-11-27T20:00:00Z",
+          "local": "Nottingham",
+          "visitante": "Chelsea",
+          "escudo_local": "https://crests.football-data.org/351.png",
+          "escudo_visitante": "https://crests.football-data.org/61.png",
+          "prob": {
+            "local": 36,
+            "empate": 25,
+            "visitante": 39,
+            "mas_2_5": 51,
+            "ambos_marcan": 55,
+            "goles_esperados": {
+              "local": 1.33,
+              "visitante": 1.39
+            },
+            "marcadores": [
+              {
+                "resultado": "1-1",
+                "prob": 12.2
+              },
+              {
+                "resultado": "0-1",
+                "prob": 9.2
+              },
+              {
+                "resultado": "1-0",
+                "prob": 8.7
+              }
+            ]
+          }
         }
       ]
     },
@@ -369,7 +402,7 @@
               },
               {
                 "resultado": "0-0",
-                "prob": 10.9
+                "prob": 10.8
               }
             ]
           }
@@ -388,7 +421,7 @@
             "mas_2_5": 44,
             "ambos_marcan": 50,
             "goles_esperados": {
-              "local": 1.24,
+              "local": 1.25,
               "visitante": 1.19
             },
             "marcadores": [
@@ -421,7 +454,7 @@
             "mas_2_5": 50,
             "ambos_marcan": 52,
             "goles_esperados": {
-              "local": 1.67,
+              "local": 1.66,
               "visitante": 1.01
             },
             "marcadores": [
@@ -488,7 +521,7 @@
             "ambos_marcan": 41,
             "goles_esperados": {
               "local": 1.77,
-              "visitante": 0.68
+              "visitante": 0.69
             },
             "marcadores": [
               {
@@ -497,7 +530,7 @@
               },
               {
                 "resultado": "2-0",
-                "prob": 13.5
+                "prob": 13.4
               },
               {
                 "resultado": "1-1",
@@ -553,8 +586,8 @@
             "mas_2_5": 73,
             "ambos_marcan": 72,
             "goles_esperados": {
-              "local": 1.69,
-              "visitante": 2.12
+              "local": 1.68,
+              "visitante": 2.11
             },
             "marcadores": [
               {
@@ -625,7 +658,7 @@
             "marcadores": [
               {
                 "resultado": "0-1",
-                "prob": 14.5
+                "prob": 14.4
               },
               {
                 "resultado": "1-1",
@@ -667,6 +700,39 @@
               {
                 "resultado": "2-1",
                 "prob": 9.2
+              }
+            ]
+          }
+        },
+        {
+          "id": 564765,
+          "fecha_utc": "2026-11-27T20:00:00Z",
+          "local": "Levante",
+          "visitante": "Santander",
+          "escudo_local": "https://crests.football-data.org/88.png",
+          "escudo_visitante": "https://crests.football-data.org/5335.png",
+          "prob": {
+            "local": 55,
+            "empate": 21,
+            "visitante": 24,
+            "mas_2_5": 69,
+            "ambos_marcan": 66,
+            "goles_esperados": {
+              "local": 2.16,
+              "visitante": 1.39
+            },
+            "marcadores": [
+              {
+                "resultado": "2-1",
+                "prob": 9.3
+              },
+              {
+                "resultado": "1-1",
+                "prob": 8.6
+              },
+              {
+                "resultado": "3-1",
+                "prob": 6.7
               }
             ]
           }
