@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T15:02:40+00:00",
+  "actualizado": "2026-11-18T00:07:34+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -181,7 +181,7 @@
             "local": 55,
             "empate": 22,
             "visitante": 23,
-            "mas_2_5": 62,
+            "mas_2_5": 61,
             "ambos_marcan": 60,
             "goles_esperados": {
               "local": 1.97,
@@ -211,8 +211,8 @@
           "escudo_local": "https://crests.football-data.org/67.png",
           "escudo_visitante": "https://crests.football-data.org/57.png",
           "prob": {
-            "local": 25,
-            "empate": 28,
+            "local": 26,
+            "empate": 27,
             "visitante": 47,
             "mas_2_5": 39,
             "ambos_marcan": 44,
@@ -359,11 +359,110 @@
               },
               {
                 "resultado": "0-1",
-                "prob": 9.1
+                "prob": 9.2
               },
               {
                 "resultado": "1-0",
                 "prob": 8.7
+              }
+            ]
+          }
+        },
+        {
+          "id": 560652,
+          "fecha_utc": "2026-11-28T15:00:00Z",
+          "local": "Leeds United",
+          "visitante": "Coventry City",
+          "escudo_local": "https://crests.football-data.org/341.png",
+          "escudo_visitante": "https://crests.football-data.org/1076.png",
+          "prob": {
+            "local": 54,
+            "empate": 26,
+            "visitante": 20,
+            "mas_2_5": 42,
+            "ambos_marcan": 44,
+            "goles_esperados": {
+              "local": 1.55,
+              "visitante": 0.82
+            },
+            "marcadores": [
+              {
+                "resultado": "1-0",
+                "prob": 14.5
+              },
+              {
+                "resultado": "1-1",
+                "prob": 11.9
+              },
+              {
+                "resultado": "2-0",
+                "prob": 11.2
+              }
+            ]
+          }
+        },
+        {
+          "id": 560655,
+          "fecha_utc": "2026-11-28T15:00:00Z",
+          "local": "Man United",
+          "visitante": "Brentford",
+          "escudo_local": "https://crests.football-data.org/66.png",
+          "escudo_visitante": "https://crests.football-data.org/402.png",
+          "prob": {
+            "local": 34,
+            "empate": 24,
+            "visitante": 42,
+            "mas_2_5": 58,
+            "ambos_marcan": 60,
+            "goles_esperados": {
+              "local": 1.41,
+              "visitante": 1.59
+            },
+            "marcadores": [
+              {
+                "resultado": "1-1",
+                "prob": 11.2
+              },
+              {
+                "resultado": "1-2",
+                "prob": 8.9
+              },
+              {
+                "resultado": "0-1",
+                "prob": 7.9
+              }
+            ]
+          }
+        },
+        {
+          "id": 560653,
+          "fecha_utc": "2026-11-28T17:30:00Z",
+          "local": "Ipswich Town",
+          "visitante": "Aston Villa",
+          "escudo_local": "https://crests.football-data.org/349.png",
+          "escudo_visitante": "https://crests.football-data.org/58.png",
+          "prob": {
+            "local": 44,
+            "empate": 22,
+            "visitante": 34,
+            "mas_2_5": 67,
+            "ambos_marcan": 67,
+            "goles_esperados": {
+              "local": 1.85,
+              "visitante": 1.59
+            },
+            "marcadores": [
+              {
+                "resultado": "1-1",
+                "prob": 9.4
+              },
+              {
+                "resultado": "2-1",
+                "prob": 8.7
+              },
+              {
+                "resultado": "1-2",
+                "prob": 7.5
               }
             ]
           }
@@ -733,6 +832,138 @@
               {
                 "resultado": "3-1",
                 "prob": 6.7
+              }
+            ]
+          }
+        },
+        {
+          "id": 564760,
+          "fecha_utc": "2026-11-28T13:00:00Z",
+          "local": "Real Betis",
+          "visitante": "Rayo Vallecano",
+          "escudo_local": "https://crests.football-data.org/90.png",
+          "escudo_visitante": "https://crests.football-data.org/87.png",
+          "prob": {
+            "local": 59,
+            "empate": 21,
+            "visitante": 20,
+            "mas_2_5": 62,
+            "ambos_marcan": 59,
+            "goles_esperados": {
+              "local": 2.06,
+              "visitante": 1.13
+            },
+            "marcadores": [
+              {
+                "resultado": "2-1",
+                "prob": 9.9
+              },
+              {
+                "resultado": "1-1",
+                "prob": 9.6
+              },
+              {
+                "resultado": "2-0",
+                "prob": 8.8
+              }
+            ]
+          }
+        },
+        {
+          "id": 564767,
+          "fecha_utc": "2026-11-28T15:15:00Z",
+          "local": "Málaga",
+          "visitante": "Athletic",
+          "escudo_local": "https://crests.football-data.org/84.png",
+          "escudo_visitante": "https://crests.football-data.org/77.png",
+          "prob": {
+            "local": 24,
+            "empate": 26,
+            "visitante": 50,
+            "mas_2_5": 45,
+            "ambos_marcan": 48,
+            "goles_esperados": {
+              "local": 0.96,
+              "visitante": 1.52
+            },
+            "marcadores": [
+              {
+                "resultado": "0-1",
+                "prob": 12.7
+              },
+              {
+                "resultado": "1-1",
+                "prob": 12.2
+              },
+              {
+                "resultado": "0-2",
+                "prob": 9.7
+              }
+            ]
+          }
+        },
+        {
+          "id": 564759,
+          "fecha_utc": "2026-11-28T17:30:00Z",
+          "local": "Elche",
+          "visitante": "Atleti",
+          "escudo_local": "https://crests.football-data.org/285.png",
+          "escudo_visitante": "https://crests.football-data.org/78.png",
+          "prob": {
+            "local": 25,
+            "empate": 25,
+            "visitante": 50,
+            "mas_2_5": 48,
+            "ambos_marcan": 51,
+            "goles_esperados": {
+              "local": 1.02,
+              "visitante": 1.57
+            },
+            "marcadores": [
+              {
+                "resultado": "1-1",
+                "prob": 12.0
+              },
+              {
+                "resultado": "0-1",
+                "prob": 11.8
+              },
+              {
+                "resultado": "1-2",
+                "prob": 9.4
+              }
+            ]
+          }
+        },
+        {
+          "id": 564762,
+          "fecha_utc": "2026-11-28T20:00:00Z",
+          "local": "Real Madrid",
+          "visitante": "Alavés",
+          "escudo_local": "https://crests.football-data.org/86.png",
+          "escudo_visitante": "https://crests.football-data.org/263.png",
+          "prob": {
+            "local": 73,
+            "empate": 16,
+            "visitante": 11,
+            "mas_2_5": 64,
+            "ambos_marcan": 51,
+            "goles_esperados": {
+              "local": 2.45,
+              "visitante": 0.83
+            },
+            "marcadores": [
+              {
+                "resultado": "2-0",
+                "prob": 11.3
+              },
+              {
+                "resultado": "2-1",
+                "prob": 9.4
+              },
+              {
+                "resultado": "3-0",
+                "prob": 9.3
               }
             ]
           }
