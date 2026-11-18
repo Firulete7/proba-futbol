@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T14:43:33+00:00",
+  "actualizado": "2026-11-18T23:39:55+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -181,7 +181,7 @@
             "local": 55,
             "empate": 22,
             "visitante": 23,
-            "mas_2_5": 62,
+            "mas_2_5": 61,
             "ambos_marcan": 60,
             "goles_esperados": {
               "local": 1.97,
@@ -212,12 +212,12 @@
           "escudo_visitante": "https://crests.football-data.org/57.png",
           "prob": {
             "local": 26,
-            "empate": 27,
-            "visitante": 47,
+            "empate": 28,
+            "visitante": 46,
             "mas_2_5": 39,
             "ambos_marcan": 44,
             "goles_esperados": {
-              "local": 0.91,
+              "local": 0.92,
               "visitante": 1.34
             },
             "marcadores": [
@@ -256,7 +256,7 @@
             "marcadores": [
               {
                 "resultado": "0-1",
-                "prob": 12.5
+                "prob": 12.4
               },
               {
                 "resultado": "1-1",
@@ -383,7 +383,7 @@
             "ambos_marcan": 44,
             "goles_esperados": {
               "local": 1.55,
-              "visitante": 0.83
+              "visitante": 0.82
             },
             "marcadores": [
               {
@@ -587,7 +587,7 @@
             "ambos_marcan": 60,
             "goles_esperados": {
               "local": 1.44,
-              "visitante": 1.52
+              "visitante": 1.53
             },
             "marcadores": [
               {
@@ -600,7 +600,7 @@
               },
               {
                 "resultado": "2-1",
-                "prob": 8.2
+                "prob": 8.1
               }
             ]
           }
@@ -652,13 +652,13 @@
             "mas_2_5": 76,
             "ambos_marcan": 62,
             "goles_esperados": {
-              "local": 2.89,
+              "local": 2.88,
               "visitante": 1.08
             },
             "marcadores": [
               {
                 "resultado": "2-1",
-                "prob": 8.5
+                "prob": 8.6
               },
               {
                 "resultado": "3-1",
@@ -728,7 +728,7 @@
               },
               {
                 "resultado": "1-0",
-                "prob": 10.4
+                "prob": 10.5
               },
               {
                 "resultado": "2-1",
@@ -746,12 +746,12 @@
           "escudo_visitante": "https://crests.football-data.org/78.png",
           "prob": {
             "local": 19,
-            "empate": 25,
-            "visitante": 56,
+            "empate": 26,
+            "visitante": 55,
             "mas_2_5": 43,
             "ambos_marcan": 44,
             "goles_esperados": {
-              "local": 0.81,
+              "local": 0.82,
               "visitante": 1.58
             },
             "marcadores": [
@@ -949,7 +949,7 @@
             "mas_2_5": 64,
             "ambos_marcan": 51,
             "goles_esperados": {
-              "local": 2.46,
+              "local": 2.45,
               "visitante": 0.83
             },
             "marcadores": [
