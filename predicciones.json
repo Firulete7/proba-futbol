@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T00:07:34+00:00",
+  "actualizado": "2026-11-18T14:43:33+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -181,7 +181,7 @@
             "local": 55,
             "empate": 22,
             "visitante": 23,
-            "mas_2_5": 61,
+            "mas_2_5": 62,
             "ambos_marcan": 60,
             "goles_esperados": {
               "local": 1.97,
@@ -251,7 +251,7 @@
             "ambos_marcan": 49,
             "goles_esperados": {
               "local": 0.95,
-              "visitante": 1.61
+              "visitante": 1.6
             },
             "marcadores": [
               {
@@ -260,7 +260,7 @@
               },
               {
                 "resultado": "1-1",
-                "prob": 11.8
+                "prob": 11.9
               },
               {
                 "resultado": "0-2",
@@ -359,7 +359,7 @@
               },
               {
                 "resultado": "0-1",
-                "prob": 9.2
+                "prob": 9.1
               },
               {
                 "resultado": "1-0",
@@ -383,12 +383,12 @@
             "ambos_marcan": 44,
             "goles_esperados": {
               "local": 1.55,
-              "visitante": 0.82
+              "visitante": 0.83
             },
             "marcadores": [
               {
                 "resultado": "1-0",
-                "prob": 14.5
+                "prob": 14.4
               },
               {
                 "resultado": "1-1",
@@ -448,13 +448,13 @@
             "mas_2_5": 67,
             "ambos_marcan": 67,
             "goles_esperados": {
-              "local": 1.85,
+              "local": 1.84,
               "visitante": 1.59
             },
             "marcadores": [
               {
                 "resultado": "1-1",
-                "prob": 9.4
+                "prob": 9.5
               },
               {
                 "resultado": "2-1",
@@ -488,7 +488,7 @@
             "ambos_marcan": 43,
             "goles_esperados": {
               "local": 1.37,
-              "visitante": 0.85
+              "visitante": 0.86
             },
             "marcadores": [
               {
@@ -587,7 +587,7 @@
             "ambos_marcan": 60,
             "goles_esperados": {
               "local": 1.44,
-              "visitante": 1.53
+              "visitante": 1.52
             },
             "marcadores": [
               {
@@ -600,7 +600,7 @@
               },
               {
                 "resultado": "2-1",
-                "prob": 8.1
+                "prob": 8.2
               }
             ]
           }
@@ -728,7 +728,7 @@
               },
               {
                 "resultado": "1-0",
-                "prob": 10.5
+                "prob": 10.4
               },
               {
                 "resultado": "2-1",
@@ -850,7 +850,7 @@
             "mas_2_5": 62,
             "ambos_marcan": 59,
             "goles_esperados": {
-              "local": 2.06,
+              "local": 2.05,
               "visitante": 1.13
             },
             "marcadores": [
@@ -949,7 +949,7 @@
             "mas_2_5": 64,
             "ambos_marcan": 51,
             "goles_esperados": {
-              "local": 2.45,
+              "local": 2.46,
               "visitante": 0.83
             },
             "marcadores": [
