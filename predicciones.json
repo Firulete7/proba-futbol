@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T14:50:27+00:00",
+  "actualizado": "2026-11-19T23:58:30+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -112,8 +112,8 @@
           "escudo_local": "https://crests.football-data.org/bournemouth.png",
           "escudo_visitante": "https://crests.football-data.org/351.png",
           "prob": {
-            "local": 55,
-            "empate": 24,
+            "local": 54,
+            "empate": 25,
             "visitante": 21,
             "mas_2_5": 50,
             "ambos_marcan": 51,
@@ -184,7 +184,7 @@
             "mas_2_5": 61,
             "ambos_marcan": 60,
             "goles_esperados": {
-              "local": 1.97,
+              "local": 1.96,
               "visitante": 1.21
             },
             "marcadores": [
@@ -212,18 +212,18 @@
           "escudo_visitante": "https://crests.football-data.org/57.png",
           "prob": {
             "local": 26,
-            "empate": 27,
-            "visitante": 47,
+            "empate": 28,
+            "visitante": 46,
             "mas_2_5": 39,
             "ambos_marcan": 44,
             "goles_esperados": {
-              "local": 0.91,
+              "local": 0.92,
               "visitante": 1.34
             },
             "marcadores": [
               {
                 "resultado": "0-1",
-                "prob": 14.1
+                "prob": 14.0
               },
               {
                 "resultado": "1-1",
@@ -297,7 +297,7 @@
               },
               {
                 "resultado": "2-1",
-                "prob": 9.9
+                "prob": 10.0
               }
             ]
           }
@@ -396,7 +396,7 @@
               },
               {
                 "resultado": "2-0",
-                "prob": 11.1
+                "prob": 11.2
               }
             ]
           }
@@ -514,7 +514,7 @@
             "mas_2_5": 45,
             "ambos_marcan": 51,
             "goles_esperados": {
-              "local": 1.28,
+              "local": 1.29,
               "visitante": 1.21
             },
             "marcadores": [
@@ -647,7 +647,7 @@
             "ambos_marcan": 49,
             "goles_esperados": {
               "local": 1.6,
-              "visitante": 0.95
+              "visitante": 0.96
             },
             "marcadores": [
               {
@@ -660,7 +660,7 @@
               },
               {
                 "resultado": "2-0",
-                "prob": 10.0
+                "prob": 9.9
               }
             ]
           }
@@ -761,7 +761,7 @@
               },
               {
                 "resultado": "1-0",
-                "prob": 11.5
+                "prob": 11.4
               },
               {
                 "resultado": "2-1",
@@ -814,7 +814,7 @@
             "local": 63,
             "empate": 23,
             "visitante": 14,
-            "mas_2_5": 44,
+            "mas_2_5": 45,
             "ambos_marcan": 41,
             "goles_esperados": {
               "local": 1.77,
@@ -959,7 +959,7 @@
               },
               {
                 "resultado": "1-1",
-                "prob": 11.7
+                "prob": 11.8
               },
               {
                 "resultado": "0-2",
@@ -1190,7 +1190,7 @@
               },
               {
                 "resultado": "1-0",
-                "prob": 11.3
+                "prob": 11.2
               },
               {
                 "resultado": "0-1",
