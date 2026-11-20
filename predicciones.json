@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T23:58:30+00:00",
+  "actualizado": "2026-11-20T05:41:21+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -1294,6 +1294,39 @@
               {
                 "resultado": "1-0",
                 "prob": 7.1
+              }
+            ]
+          }
+        },
+        {
+          "id": 564763,
+          "fecha_utc": "2026-11-30T20:00:00Z",
+          "local": "Espanyol",
+          "visitante": "Getafe",
+          "escudo_local": "https://crests.football-data.org/80.png",
+          "escudo_visitante": "https://crests.football-data.org/82.png",
+          "prob": {
+            "local": 51,
+            "empate": 28,
+            "visitante": 21,
+            "mas_2_5": 36,
+            "ambos_marcan": 40,
+            "goles_esperados": {
+              "local": 1.38,
+              "visitante": 0.77
+            },
+            "marcadores": [
+              {
+                "resultado": "1-0",
+                "prob": 16.1
+              },
+              {
+                "resultado": "1-1",
+                "prob": 12.4
+              },
+              {
+                "resultado": "0-0",
+                "prob": 11.6
               }
             ]
           }
