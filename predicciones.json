@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T05:41:21+00:00",
+  "actualizado": "2026-11-20T14:31:38+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -184,7 +184,7 @@
             "mas_2_5": 61,
             "ambos_marcan": 60,
             "goles_esperados": {
-              "local": 1.96,
+              "local": 1.97,
               "visitante": 1.21
             },
             "marcadores": [
@@ -297,7 +297,7 @@
               },
               {
                 "resultado": "2-1",
-                "prob": 10.0
+                "prob": 9.9
               }
             ]
           }
@@ -363,7 +363,7 @@
               },
               {
                 "resultado": "1-0",
-                "prob": 8.7
+                "prob": 8.8
               }
             ]
           }
@@ -396,7 +396,7 @@
               },
               {
                 "resultado": "2-0",
-                "prob": 11.2
+                "prob": 11.1
               }
             ]
           }
@@ -647,7 +647,7 @@
             "ambos_marcan": 49,
             "goles_esperados": {
               "local": 1.6,
-              "visitante": 0.96
+              "visitante": 0.95
             },
             "marcadores": [
               {
@@ -660,7 +660,7 @@
               },
               {
                 "resultado": "2-0",
-                "prob": 9.9
+                "prob": 10.0
               }
             ]
           }
@@ -1124,7 +1124,7 @@
               },
               {
                 "resultado": "0-1",
-                "prob": 11.8
+                "prob": 11.7
               },
               {
                 "resultado": "1-2",
@@ -1180,7 +1180,7 @@
             "mas_2_5": 45,
             "ambos_marcan": 50,
             "goles_esperados": {
-              "local": 1.32,
+              "local": 1.33,
               "visitante": 1.14
             },
             "marcadores": [
