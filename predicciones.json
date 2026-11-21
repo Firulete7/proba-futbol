@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T23:27:28+00:00",
+  "actualizado": "2026-11-21T04:35:26+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -661,6 +661,39 @@
               {
                 "resultado": "2-0",
                 "prob": 9.9
+              }
+            ]
+          }
+        },
+        {
+          "id": 560668,
+          "fecha_utc": "2026-12-01T20:00:00Z",
+          "local": "Coventry City",
+          "visitante": "Ipswich Town",
+          "escudo_local": "https://crests.football-data.org/1076.png",
+          "escudo_visitante": "https://crests.football-data.org/349.png",
+          "prob": {
+            "local": 42,
+            "empate": 23,
+            "visitante": 35,
+            "mas_2_5": 63,
+            "ambos_marcan": 64,
+            "goles_esperados": {
+              "local": 1.71,
+              "visitante": 1.53
+            },
+            "marcadores": [
+              {
+                "resultado": "1-1",
+                "prob": 10.2
+              },
+              {
+                "resultado": "2-1",
+                "prob": 8.8
+              },
+              {
+                "resultado": "1-2",
+                "prob": 7.8
               }
             ]
           }
