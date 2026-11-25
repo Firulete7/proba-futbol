@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T16:38:15+00:00",
+  "actualizado": "2026-11-25T01:42:13+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -152,7 +152,7 @@
             "ambos_marcan": 49,
             "goles_esperados": {
               "local": 1.09,
-              "visitante": 1.33
+              "visitante": 1.32
             },
             "marcadores": [
               {
@@ -214,7 +214,7 @@
             "local": 71,
             "empate": 17,
             "visitante": 12,
-            "mas_2_5": 63,
+            "mas_2_5": 62,
             "ambos_marcan": 52,
             "goles_esperados": {
               "local": 2.37,
@@ -421,7 +421,7 @@
             "marcadores": [
               {
                 "resultado": "1-0",
-                "prob": 15.8
+                "prob": 15.9
               },
               {
                 "resultado": "1-1",
@@ -487,11 +487,11 @@
             "marcadores": [
               {
                 "resultado": "1-1",
-                "prob": 12.2
+                "prob": 12.3
               },
               {
                 "resultado": "1-0",
-                "prob": 11.1
+                "prob": 11.2
               },
               {
                 "resultado": "2-1",
@@ -664,6 +664,237 @@
               }
             ]
           }
+        },
+        {
+          "id": 560676,
+          "fecha_utc": "2026-12-05T12:30:00Z",
+          "local": "Chelsea",
+          "visitante": "Liverpool",
+          "escudo_local": "https://crests.football-data.org/61.png",
+          "escudo_visitante": "https://crests.football-data.org/64.png",
+          "prob": {
+            "local": 35,
+            "empate": 25,
+            "visitante": 40,
+            "mas_2_5": 57,
+            "ambos_marcan": 60,
+            "goles_esperados": {
+              "local": 1.44,
+              "visitante": 1.55
+            },
+            "marcadores": [
+              {
+                "resultado": "1-1",
+                "prob": 11.2
+              },
+              {
+                "resultado": "1-2",
+                "prob": 8.7
+              },
+              {
+                "resultado": "2-1",
+                "prob": 8.1
+              }
+            ]
+          }
+        },
+        {
+          "id": 560673,
+          "fecha_utc": "2026-12-05T15:00:00Z",
+          "local": "Man United",
+          "visitante": "Coventry City",
+          "escudo_local": "https://crests.football-data.org/66.png",
+          "escudo_visitante": "https://crests.football-data.org/1076.png",
+          "prob": {
+            "local": 45,
+            "empate": 22,
+            "visitante": 33,
+            "mas_2_5": 65,
+            "ambos_marcan": 66,
+            "goles_esperados": {
+              "local": 1.83,
+              "visitante": 1.53
+            },
+            "marcadores": [
+              {
+                "resultado": "1-1",
+                "prob": 9.7
+              },
+              {
+                "resultado": "2-1",
+                "prob": 8.9
+              },
+              {
+                "resultado": "1-2",
+                "prob": 7.4
+              }
+            ]
+          }
+        },
+        {
+          "id": 560674,
+          "fecha_utc": "2026-12-05T15:00:00Z",
+          "local": "Leeds United",
+          "visitante": "Ipswich Town",
+          "escudo_local": "https://crests.football-data.org/341.png",
+          "escudo_visitante": "https://crests.football-data.org/349.png",
+          "prob": {
+            "local": 62,
+            "empate": 22,
+            "visitante": 16,
+            "mas_2_5": 53,
+            "ambos_marcan": 50,
+            "goles_esperados": {
+              "local": 1.94,
+              "visitante": 0.87
+            },
+            "marcadores": [
+              {
+                "resultado": "1-0",
+                "prob": 11.7
+              },
+              {
+                "resultado": "2-0",
+                "prob": 11.3
+              },
+              {
+                "resultado": "1-1",
+                "prob": 10.2
+              }
+            ]
+          }
+        },
+        {
+          "id": 560678,
+          "fecha_utc": "2026-12-05T15:00:00Z",
+          "local": "Bournemouth",
+          "visitante": "Hull City",
+          "escudo_local": "https://crests.football-data.org/bournemouth.png",
+          "escudo_visitante": "https://crests.football-data.org/322.png",
+          "prob": {
+            "local": 51,
+            "empate": 25,
+            "visitante": 24,
+            "mas_2_5": 46,
+            "ambos_marcan": 49,
+            "goles_esperados": {
+              "local": 1.55,
+              "visitante": 0.97
+            },
+            "marcadores": [
+              {
+                "resultado": "1-0",
+                "prob": 12.5
+              },
+              {
+                "resultado": "1-1",
+                "prob": 12.1
+              },
+              {
+                "resultado": "2-0",
+                "prob": 9.7
+              }
+            ]
+          }
+        },
+        {
+          "id": 560679,
+          "fecha_utc": "2026-12-05T15:00:00Z",
+          "local": "Aston Villa",
+          "visitante": "Crystal Palace",
+          "escudo_local": "https://crests.football-data.org/58.png",
+          "escudo_visitante": "https://crests.football-data.org/354.png",
+          "prob": {
+            "local": 65,
+            "empate": 19,
+            "visitante": 16,
+            "mas_2_5": 66,
+            "ambos_marcan": 59,
+            "goles_esperados": {
+              "local": 2.32,
+              "visitante": 1.06
+            },
+            "marcadores": [
+              {
+                "resultado": "2-1",
+                "prob": 9.7
+              },
+              {
+                "resultado": "2-0",
+                "prob": 9.1
+              },
+              {
+                "resultado": "1-1",
+                "prob": 8.4
+              }
+            ]
+          }
+        },
+        {
+          "id": 560680,
+          "fecha_utc": "2026-12-05T17:30:00Z",
+          "local": "Nottingham",
+          "visitante": "Brighton Hove",
+          "escudo_local": "https://crests.football-data.org/351.png",
+          "escudo_visitante": "https://crests.football-data.org/397.png",
+          "prob": {
+            "local": 22,
+            "empate": 25,
+            "visitante": 53,
+            "mas_2_5": 46,
+            "ambos_marcan": 48,
+            "goles_esperados": {
+              "local": 0.93,
+              "visitante": 1.58
+            },
+            "marcadores": [
+              {
+                "resultado": "0-1",
+                "prob": 12.9
+              },
+              {
+                "resultado": "1-1",
+                "prob": 11.9
+              },
+              {
+                "resultado": "0-2",
+                "prob": 10.2
+              }
+            ]
+          }
+        },
+        {
+          "id": 560677,
+          "fecha_utc": "2026-12-05T20:00:00Z",
+          "local": "Brentford",
+          "visitante": "Man City",
+          "escudo_local": "https://crests.football-data.org/402.png",
+          "escudo_visitante": "https://crests.football-data.org/65.png",
+          "prob": {
+            "local": 53,
+            "empate": 23,
+            "visitante": 24,
+            "mas_2_5": 59,
+            "ambos_marcan": 59,
+            "goles_esperados": {
+              "local": 1.87,
+              "visitante": 1.18
+            },
+            "marcadores": [
+              {
+                "resultado": "1-1",
+                "prob": 10.5
+              },
+              {
+                "resultado": "2-1",
+                "prob": 9.8
+              },
+              {
+                "resultado": "1-0",
+                "prob": 8.8
+              }
+            ]
+          }
         }
       ]
     },
@@ -716,7 +947,7 @@
             "empate": 22,
             "visitante": 20,
             "mas_2_5": 57,
-            "ambos_marcan": 55,
+            "ambos_marcan": 56,
             "goles_esperados": {
               "local": 1.94,
               "visitante": 1.05
@@ -752,7 +983,7 @@
             "ambos_marcan": 44,
             "goles_esperados": {
               "local": 0.89,
-              "visitante": 1.39
+              "visitante": 1.4
             },
             "marcadores": [
               {
@@ -784,8 +1015,8 @@
             "mas_2_5": 47,
             "ambos_marcan": 49,
             "goles_esperados": {
-              "local": 0.94,
-              "visitante": 1.63
+              "local": 0.95,
+              "visitante": 1.62
             },
             "marcadores": [
               {
@@ -864,7 +1095,7 @@
               },
               {
                 "resultado": "0-1",
-                "prob": 10.7
+                "prob": 10.6
               }
             ]
           }
@@ -955,7 +1186,7 @@
             "marcadores": [
               {
                 "resultado": "1-1",
-                "prob": 9.6
+                "prob": 9.5
               },
               {
                 "resultado": "2-1",
@@ -983,7 +1214,7 @@
             "ambos_marcan": 38,
             "goles_esperados": {
               "local": 1.45,
-              "visitante": 0.68
+              "visitante": 0.69
             },
             "marcadores": [
               {
@@ -1075,8 +1306,8 @@
           "escudo_local": "https://crests.football-data.org/263.png",
           "escudo_visitante": "https://crests.football-data.org/80.png",
           "prob": {
-            "local": 40,
-            "empate": 29,
+            "local": 41,
+            "empate": 28,
             "visitante": 31,
             "mas_2_5": 41,
             "ambos_marcan": 47,
@@ -1096,6 +1327,138 @@
               {
                 "resultado": "0-1",
                 "prob": 10.5
+              }
+            ]
+          }
+        },
+        {
+          "id": 564772,
+          "fecha_utc": "2026-12-05T13:00:00Z",
+          "local": "Santander",
+          "visitante": "Deportivo",
+          "escudo_local": "https://crests.football-data.org/5335.png",
+          "escudo_visitante": "https://crests.football-data.org/560.png",
+          "prob": {
+            "local": 38,
+            "empate": 23,
+            "visitante": 39,
+            "mas_2_5": 63,
+            "ambos_marcan": 64,
+            "goles_esperados": {
+              "local": 1.6,
+              "visitante": 1.63
+            },
+            "marcadores": [
+              {
+                "resultado": "1-1",
+                "prob": 10.3
+              },
+              {
+                "resultado": "1-2",
+                "prob": 8.4
+              },
+              {
+                "resultado": "2-1",
+                "prob": 8.3
+              }
+            ]
+          }
+        },
+        {
+          "id": 564777,
+          "fecha_utc": "2026-12-05T15:15:00Z",
+          "local": "Rayo Vallecano",
+          "visitante": "Levante",
+          "escudo_local": "https://crests.football-data.org/87.png",
+          "escudo_visitante": "https://crests.football-data.org/88.png",
+          "prob": {
+            "local": 42,
+            "empate": 25,
+            "visitante": 33,
+            "mas_2_5": 55,
+            "ambos_marcan": 58,
+            "goles_esperados": {
+              "local": 1.54,
+              "visitante": 1.35
+            },
+            "marcadores": [
+              {
+                "resultado": "1-1",
+                "prob": 11.6
+              },
+              {
+                "resultado": "2-1",
+                "prob": 8.9
+              },
+              {
+                "resultado": "1-0",
+                "prob": 8.6
+              }
+            ]
+          }
+        },
+        {
+          "id": 564776,
+          "fecha_utc": "2026-12-05T17:30:00Z",
+          "local": "Villarreal",
+          "visitante": "Real Sociedad",
+          "escudo_local": "https://crests.football-data.org/94.png",
+          "escudo_visitante": "https://crests.football-data.org/92.png",
+          "prob": {
+            "local": 46,
+            "empate": 23,
+            "visitante": 31,
+            "mas_2_5": 63,
+            "ambos_marcan": 64,
+            "goles_esperados": {
+              "local": 1.82,
+              "visitante": 1.45
+            },
+            "marcadores": [
+              {
+                "resultado": "1-1",
+                "prob": 10.0
+              },
+              {
+                "resultado": "2-1",
+                "prob": 9.1
+              },
+              {
+                "resultado": "1-2",
+                "prob": 7.3
+              }
+            ]
+          }
+        },
+        {
+          "id": 564773,
+          "fecha_utc": "2026-12-05T20:00:00Z",
+          "local": "Barça",
+          "visitante": "Celta",
+          "escudo_local": "https://crests.football-data.org/81.png",
+          "escudo_visitante": "https://crests.football-data.org/558.png",
+          "prob": {
+            "local": 74,
+            "empate": 16,
+            "visitante": 10,
+            "mas_2_5": 66,
+            "ambos_marcan": 53,
+            "goles_esperados": {
+              "local": 2.56,
+              "visitante": 0.86
+            },
+            "marcadores": [
+              {
+                "resultado": "2-0",
+                "prob": 10.8
+              },
+              {
+                "resultado": "2-1",
+                "prob": 9.2
+              },
+              {
+                "resultado": "3-0",
+                "prob": 9.2
               }
             ]
           }
