@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T01:13:45+00:00",
+  "actualizado": "2026-11-27T15:44:53+00:00",
   "ligas": [
     {
       "codigo": "PL",
@@ -50,7 +50,7 @@
             "empate": 22,
             "visitante": 17,
             "mas_2_5": 52,
-            "ambos_marcan": 49,
+            "ambos_marcan": 50,
             "goles_esperados": {
               "local": 1.89,
               "visitante": 0.87
@@ -86,7 +86,7 @@
             "ambos_marcan": 60,
             "goles_esperados": {
               "local": 1.26,
-              "visitante": 1.85
+              "visitante": 1.86
             },
             "marcadores": [
               {
@@ -314,9 +314,9 @@
             "empate": 24,
             "visitante": 22,
             "mas_2_5": 49,
-            "ambos_marcan": 50,
+            "ambos_marcan": 51,
             "goles_esperados": {
-              "local": 1.66,
+              "local": 1.67,
               "visitante": 0.98
             },
             "marcadores": [
@@ -475,8 +475,8 @@
           "escudo_local": "https://crests.football-data.org/65.png",
           "escudo_visitante": "https://crests.football-data.org/341.png",
           "prob": {
-            "local": 47,
-            "empate": 25,
+            "local": 46,
+            "empate": 26,
             "visitante": 28,
             "mas_2_5": 48,
             "ambos_marcan": 52,
@@ -614,7 +614,7 @@
             "ambos_marcan": 57,
             "goles_esperados": {
               "local": 1.38,
-              "visitante": 1.43
+              "visitante": 1.42
             },
             "marcadores": [
               {
@@ -647,7 +647,7 @@
             "ambos_marcan": 39,
             "goles_esperados": {
               "local": 1.31,
-              "visitante": 0.77
+              "visitante": 0.78
             },
             "marcadores": [
               {
@@ -718,7 +718,7 @@
             "marcadores": [
               {
                 "resultado": "1-1",
-                "prob": 9.8
+                "prob": 9.7
               },
               {
                 "resultado": "2-1",
@@ -811,7 +811,7 @@
             "mas_2_5": 66,
             "ambos_marcan": 59,
             "goles_esperados": {
-              "local": 2.32,
+              "local": 2.31,
               "visitante": 1.06
             },
             "marcadores": [
@@ -904,8 +904,8 @@
           "escudo_local": "https://crests.football-data.org/67.png",
           "escudo_visitante": "https://crests.football-data.org/71.png",
           "prob": {
-            "local": 55,
-            "empate": 24,
+            "local": 54,
+            "empate": 25,
             "visitante": 21,
             "mas_2_5": 46,
             "ambos_marcan": 47,
@@ -976,7 +976,7 @@
             "mas_2_5": 32,
             "ambos_marcan": 40,
             "goles_esperados": {
-              "local": 1.02,
+              "local": 1.03,
               "visitante": 0.98
             },
             "marcadores": [
@@ -1048,7 +1048,7 @@
             "mas_2_5": 57,
             "ambos_marcan": 56,
             "goles_esperados": {
-              "local": 1.93,
+              "local": 1.94,
               "visitante": 1.05
             },
             "marcadores": [
@@ -1082,7 +1082,7 @@
             "ambos_marcan": 44,
             "goles_esperados": {
               "local": 0.89,
-              "visitante": 1.4
+              "visitante": 1.39
             },
             "marcadores": [
               {
@@ -1214,7 +1214,7 @@
             "ambos_marcan": 66,
             "goles_esperados": {
               "local": 1.28,
-              "visitante": 2.51
+              "visitante": 2.5
             },
             "marcadores": [
               {
@@ -1577,7 +1577,7 @@
             "ambos_marcan": 52,
             "goles_esperados": {
               "local": 1.32,
-              "visitante": 1.24
+              "visitante": 1.25
             },
             "marcadores": [
               {
@@ -1586,7 +1586,7 @@
               },
               {
                 "resultado": "1-0",
-                "prob": 10.2
+                "prob": 10.1
               },
               {
                 "resultado": "0-1",
